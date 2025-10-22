@@ -1,0 +1,9 @@
+SpeechRecognition==3.10.0
+pyttsx3==2.90
+PyAudio==0.2.11
+requests==2.31.0
+wikipedia==1.4.0
+pyjokes==0.6.0
+pyautogui==0.9.54
+selenium==4.14.0
+beautifulsoup4==4.12.2
