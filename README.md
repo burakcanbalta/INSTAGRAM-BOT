@@ -103,13 +103,6 @@ python instagram_bot.py --username myaccount --password mypass123 --mode unfollo
 
 ---
 
-## ⚠️ Disclaimer
-This project is developed **strictly for educational and authorized testing purposes only**.
-Using automation tools on Instagram without permission **may violate their Terms of Service**.
-Use responsibly and ethically.
-
----
-
 **Author:** [Burak Can Balta](https://github.com/burakcanbalta)  
 **Project:** [INSTAGRAM-BOT — Advanced Level](https://github.com/burakcanbalta)  
 **Version:** 1.0.0  
