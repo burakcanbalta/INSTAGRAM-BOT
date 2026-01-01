@@ -26,7 +26,7 @@ This tool features realistic interaction timing, AI-like behavior simulation, an
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/InstagramBotAdvanced.git
+git clone https://github.com/burakcanbalta/InstagramBotAdvanced.git
 cd InstagramBotAdvanced
 ```
 
